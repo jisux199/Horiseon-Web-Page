@@ -1,4 +1,5 @@
-# Weekly Challenge 1
+# Horiseon
+## Weekly Challenge 1
 
 ### Deplyoyed page link: https://jisux199.github.io/Weekly-challenge1/
 ### Github Repository link: https://github.com/jisux199/Weekly-challenge1
